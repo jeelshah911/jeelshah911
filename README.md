@@ -1,4 +1,4 @@
-###👋 Hi, I’m **Jeel Shah**  
+### 👋 Hi, I’m **Jeel Shah**  
 🎓 Software developer & co-op student with a keen interest in **FinTech, Supply Chain Finance, and Blockchain**  
 💻 Passionate about building backend systems with **Python, Django**, and exploring scalable web solutions  
 🔍 Skilled in developing **full-stack web applications**, experimenting with **AI solutions**, and working on **firmware development**  
