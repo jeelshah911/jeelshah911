@@ -49,19 +49,4 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jeelshah&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=jeelshah&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeelshah&theme=radical&hide_border=false&layout=compact)
-
----
-
-# 🚀 Featured Projects:
-- 🔹 **BoreshaPay** – E-payment system with automated backend tests (Django)  
-- 🔹 **Ghana Electoral Elections App** – Wrote API tests ensuring security & privacy compliance  
-- 🔹 **Credit Scoring App (SCF)** – Building backend services for supply chain finance  
-- 🔹 **Heat Compost System** – Sustainable energy project (ESW UAlberta)  
-
----
-
 ✨ _“Curiosity drives me to learn, build, and innovate.”_
