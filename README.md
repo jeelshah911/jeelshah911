@@ -7,9 +7,9 @@
 ---
 
 # 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-EB4432?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeel-shah-526433219/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://jeelshah.netlify.app/)  
+[![Email](https://img.shields.io/badge/Email-EB4432?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcshah1@ualberta.ca)
 
 ---
 
@@ -45,9 +45,7 @@
 ### 🔧 Tools & Other Skills
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-⚡ Firmware Development  
-🤖 Artificial Intelligence (AI)  
-🌐 Full-Stack Development  
+ 
 
 ---
 
